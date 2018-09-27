@@ -1,0 +1,85 @@
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\PagedList.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\WebGrease.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\PagedList.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ProyectoFinal.University.csproj.GenerateResource.cache
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ProyectoFinal.University.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ProyectoFinal.University.csproj.CopyComplete
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\Richard\Downloads\Gestion de Configuracion\C#\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\PagedList.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\WebGrease.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\PagedList.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ProyectoFinal.University.csprojAssemblyReference.cache
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ProyectoFinal.University.csproj.GenerateResource.cache
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ProyectoFinal.University.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ProyectoFinal.University.csproj.CopyComplete
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\Richard\source\repos\SMC-Proyecto\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
