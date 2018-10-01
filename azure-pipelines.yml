@@ -30,8 +30,6 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-
-steps:
 - task: PublishSymbols@2
   displayName: 'Publish symbols path'
   inputs:
@@ -41,9 +39,8 @@ steps:
 
   continueOnError: true
 
-
 #Your build pipeline references an undefined variable named ‘Parameters.ArtifactName’. Create or edit the build pipeline for this YAML file, define the variable on the Variables tab. See https://go.microsoft.com/fwlink/?linkid=865972
-steps:
+
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact'
   inputs:
