@@ -114,7 +114,6 @@ C:\Users\Richard\source\repos\smc-ic\smc-ic\ContosoUniversity\bin\System.Web.Web
 C:\Users\Richard\source\repos\smc-ic\smc-ic\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
 C:\Users\Richard\source\repos\smc-ic\smc-ic\ContosoUniversity\bin\Antlr3.Runtime.pdb
 C:\Users\Richard\source\repos\smc-ic\smc-ic\ContosoUniversity\bin\Newtonsoft.Json.xml
-C:\Users\Richard\source\repos\smc-ic\smc-ic\ContosoUniversity\obj\Debug\ProyectoFinal.University.csprojAssemblyReference.cache
 C:\Users\Richard\source\repos\smc-ic\smc-ic\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 C:\Users\Richard\source\repos\smc-ic\smc-ic\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
 C:\Users\Richard\source\repos\smc-ic\smc-ic\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources

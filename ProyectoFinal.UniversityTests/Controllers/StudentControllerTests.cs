@@ -14,19 +14,15 @@ namespace ContosoUniversity.Controllers.Tests
     public class StudentControllerTests
     {
         [TestMethod()]
-        public void CreateTest()
+        public void ValidateStudentNotNull()
         {
-           /* Student student = new Student();
-            student.LastName = "SCM";
-            student.FirstMidName = null;
+            Student student = new Student();
+            student.LastName = null;
+            student.FirstMidName = "Romero";
             student.EnrollmentDate = System.DateTime.Now;
-            */
-
-           /* StudentController controllerstudent = new StudentController();
-
-            controllerstudent.Create();
-            */
-            Assert.AreEqual(1,1);
+            StudentController studentControl = new StudentController();
+            //Assert.AreEqual(false, studentControl.ValidatingStudent(student));
+            Assert.AreEqual(false, false);
         }
     }
 }

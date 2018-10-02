@@ -1,0 +1,10 @@
+C:\Users\Richard\source\repos\smc-ic\smc-ic\ProyectoFinal.DataBase\bin\Debug\ProyectoFinal.DataBase.dacpac
+C:\Users\Richard\source\repos\smc-ic\smc-ic\ProyectoFinal.DataBase\bin\Debug\ProyectoFinal.DataBase.dll
+C:\Users\Richard\source\repos\smc-ic\smc-ic\ProyectoFinal.DataBase\bin\Debug\ProyectoFinal.DataBase.pdb
+C:\Users\Richard\source\repos\smc-ic\smc-ic\ProyectoFinal.DataBase\obj\Debug\ProyectoFinal.DataBase.sqlprojAssemblyReference.cache
+C:\Users\Richard\source\repos\smc-ic\smc-ic\ProyectoFinal.DataBase\obj\Debug\Model.xml
+C:\Users\Richard\source\repos\smc-ic\smc-ic\ProyectoFinal.DataBase\obj\Debug\refactor.xml
+C:\Users\Richard\source\repos\smc-ic\smc-ic\ProyectoFinal.DataBase\obj\Debug\postdeploy.sql
+C:\Users\Richard\source\repos\smc-ic\smc-ic\ProyectoFinal.DataBase\obj\Debug\predeploy.sql
+C:\Users\Richard\source\repos\smc-ic\smc-ic\ProyectoFinal.DataBase\obj\Debug\ProyectoFinal.DataBase.dll
+C:\Users\Richard\source\repos\smc-ic\smc-ic\ProyectoFinal.DataBase\obj\Debug\ProyectoFinal.DataBase.pdb

@@ -63,9 +63,15 @@ namespace ContosoUniversity.Controllers
             return View(students.ToPagedList(pageNumber, pageSize));
         }
 
+        public bool ValidatingStudent(Student student)
+        {
+            if (student.LastName is null) return false;
+            if (student.FirstMidName is null) return false;
+            return true;
+        }
 
-        // GET: Student/Details/5
-        public ActionResult Details(int? id)
+    // GET: Student/Details/5
+    public ActionResult Details(int? id)
         {
             if (id == null)
             {
@@ -96,9 +102,17 @@ namespace ContosoUniversity.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    db.Students.Add(student);
-                    db.SaveChanges();
-                    return RedirectToAction("Index");
+                    if (ValidatingStudent(student))
+                    {
+                        db.Students.Add(student);
+                        db.SaveChanges();
+                        return RedirectToAction("Index");
+                    }
+                   else
+                    {
+                        //Log the error (uncomment dex variable name and add a line here to write a log.
+                        ModelState.AddModelError("", "Invalid student");
+                    }
                 }
             }
             catch (RetryLimitExceededException /* dex */)
